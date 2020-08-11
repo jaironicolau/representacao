@@ -1,8 +1,5 @@
-# representacao
+# Leituras e cronograma de aulas
 
-
-Leituras e cronograma de aulas
-Conteúdo das aulas
 
 
 ## 1- Apresentação
@@ -49,6 +46,7 @@ Soares, Gláucio Ary Dillon. 1973. Sociedade e Política No Brasil. São Paulo:
 
 Nicolau, Jairo. 2004. “Partidos Na República de 1946: Velhas Teses, Novos Dados.” Dados 47(1):85–129.
 
+
 ## 7 e 8 -  Eleições e Representação no Regime Militar e na democracia
 
 Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de Janeiro: Zahar.
@@ -79,6 +77,7 @@ Campos, Luiz Augusto e Carlos Machado. 2015. “A Cor Dos Eleitos: Determinantes
 Campos, Luiz Augusto e Carlos Machado. 2017. “O Que Afasta Pretos e Pardos Da Representação Política? Uma Análise a Partir Das Eleições Legislativas de 2014.” Revista de Sociologia e Politica 25(61):125–42.
 
 Bueno, Natália S. 2015. “Cor e Representação nas Eleições de 2014.” Revista Parlamento e Sociedade 3(5):45–63.
+
 Sacchet, Teresa. 2011. “Partidos Políticos e (Sub)Representação Feminina: Um Estudo Sobre Recrutamento Legislativo e Financiamento de Campanhas.” Pp. 159–86 in Mulheres, política e poder, org. D. Paiva. Cânone Editoração.
 
 Abreu, Maria. 2015. “Mulheres e Representação Política.” Revista Parlamento e Sociedade 3(5):27–44.
