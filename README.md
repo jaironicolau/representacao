@@ -40,13 +40,19 @@ Viscardi, Cláudia Maria R. 2015. “Voto, Representação Política e Soberania
 ## 5  e 6 – Eleições e Representação na República de 1946
 
 Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de Janeiro: Zahar.
+
 Limongi, Fernando. 2012. “Eleições e Democracia No Brasil: Victor Nunes Leal e a Transição de 1945.” Dados 55(1):37–69.
+
 Souza, Maria do Carmo Campello de. 1976. Estado e Partidos Políticos No Brasil. São Paulo: Editora Alfa-Omega.
+
 Soares, Gláucio Ary Dillon. 1973. Sociedade e Política No Brasil. São Paulo: Difel.
+
 Nicolau, Jairo. 2004. “Partidos Na República de 1946: Velhas Teses, Novos Dados.” Dados 47(1):85–129.
 
-7 e 8 -  Eleições e Representação no Regime Militar e na democracia
+## 7 e 8 -  Eleições e Representação no Regime Militar e na democracia
+
 Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de Janeiro: Zahar.
+
 Madeira, Rafael Machado. 2006. “Vinhos Antigos Em Novas Garrafas: A Influência de Ex-Arenistas e Ex-Emedebistas No Atual Multipartidarismo Brasileiro.” Tese de Doutorado
 
 ## PARTE 2- Representação
@@ -66,7 +72,7 @@ Carlomagno, Márcio e Adriano Codato. 2018. “Profissão, Sexo e Dinheiro: Mens
 
 
 
-## 12  e 13 -  Representação de negros/mulheres 
+## 12 e 13 -  Representação de negros/mulheres 
 
 Campos, Luiz Augusto e Carlos Machado. 2015. “A Cor Dos Eleitos: Determinantes Da Sub-Representação Política Dos Não Brancos No Brasil.” Revista Brasileira de Ciência Política (16):121–51.
 
@@ -83,10 +89,12 @@ Araújo, Clara e Doriam Borges. 2013. “Trajetórias Políticas e Chances Eleit
 ## 14 -  Representação  e religião
 
 Dip, Andrea. 2018. Em Nome de Quem?: A Bancada Evangélica e Seu Projeto de Poder. Rio de Janeiro: Civilização Brasileira.
+
 Fábio Lacerda. 2017. “Pentecostalismo , Eleições e Representação Política No Brasil Contemporâneo.” Tese de Doutorado, USP.
 
 
 ## 15 -  Bancadas temáticas 
 
 Fernando, Pedro and D. E. Almeida Nery. 2019. “Economia Política Do Meio Ambiente : Identificação Da Bancada Ruralista e Outras Bancadas Temáticas No Congresso Nacional Com Análise de Redes.”, Tese de Doutotado.
+
 Moreira, Davi Cordeiro. 2016. “Com a Palavra Os Nobres Deputados: Frequência e Ênfase Temática Dos Discursos Dos Parlamentares Brasileiros.” Dados - Revista de Ciências Sociais 63(1):1–37.
