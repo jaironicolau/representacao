@@ -21,17 +21,23 @@ Carvalho, Jose Murilo de. 2007. A Construção Da Ordem/ Teatro de Sombras. Rio 
 Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de Janeiro: Zahar.
 
 
-## 3 e 4 - Eleições e Representação na Primeira República e nos anos 1930
+## 3  - Eleições e Representação na Primeira República e nos anos 1930
 
-Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de Janeiro: Zahar.
-
-Ricci, Paolo and Jaqueline Porto Zulini. 2016. “The Meaning of Electoral Fraud in Oligarchic Regimes: Lessons from the Brazilian Case (1899-1930).” Journal of Latin American Studies 49(2):243–68.
-
-Silva, Thiago. 2015. “Eleições No Brasil Antes Da Democracia: O Código Eleitoral de 1932 e Os Pleitos de 1933 e 1934.” (1975):75–106.
+Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de Janeiro: Zahar. (cap. 2 )
 
 Viscardi, Cláudia. 2018. “Direitos Políticos e Representação No Brasil Republicano (1891-1934).” Mundos Do Trabalho 9(18):49–62.
 
 Viscardi, Cláudia Maria R. 2015. “Voto, Representação Política e Soberania Popular Na República Brasileira.” Estudos Ibero-Americanos 41(1):14–39.
+
+
+## 4 -  Eleições e Representação na Primeira República e nos anos 1930
+
+Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de Janeiro: Zahar. (cap. 3 )
+
+Silva, T. (2015). Eleições no Brasil antes da democracia: o Código Eleitoral de 1932 e os pleitos de 1933 e 1934. Revista de Sociologia e Política, 23(56), 75–106. https://doi.org/10.1590/1678-987315235604
+
+Ricci, Paolo and Jaqueline Porto Zulini. 2016. “The Meaning of Electoral Fraud in Oligarchic Regimes: Lessons from the Brazilian Case (1899-1930).” Journal of Latin American Studies 49(2):243–68.
+
 
 
 ## 5  e 6 – Eleições e Representação na República de 1946
