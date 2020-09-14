@@ -27,11 +27,10 @@ Nunes, Neila Ferraz Moreira. 2003. “A Experiência Eleitoral Em Campos Dos
 Goytacazes (1870-1889): Freqüência Eleitoral e Perfil Da População Votante.”
 Dados 46(2):311–43.
 
-Carvalho, Jose Murilo de. 2007. A Construção Da Ordem/ Teatro de Sombras. Rio de
-Janeiro: Civilização Brasileira.
-
 Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de
 Janeiro: Zahar.
+
+ 
 
 3 - Eleições e Representação na Primeira República e nos anos 1930
 ------------------------------------------------------------------
@@ -44,6 +43,8 @@ Republicano (1891-1934).” Mundos Do Trabalho 9(18):49–62.
 
 Viscardi, Cláudia Maria R. 2015. “Voto, Representação Política e Soberania
 Popular Na República Brasileira.” Estudos Ibero-Americanos 41(1):14–39.
+
+ 
 
 4 - Eleições e Representação na Primeira República e nos anos 1930
 ------------------------------------------------------------------
@@ -59,8 +60,12 @@ Ricci, Paolo and Jaqueline Porto Zulini. 2016. “The Meaning of Electoral Fraud
 in Oligarchic Regimes: Lessons from the Brazilian Case (1899-1930).” Journal of
 Latin American Studies 49(2):243–68.
 
+ 
+
 5 – Eleições e Representação na República de 1946
 -------------------------------------------------
+
+ 
 
 Nicolau, Jairo. 2012. Eleições No Brasil: Do Império Aos Dias Atuais. Rio de
 Janeiro: Zahar.
@@ -84,21 +89,25 @@ Janeiro: Zahar.
 
 Madeira, Rafael Machado. 2006. “Vinhos Antigos Em Novas Garrafas: A Influência
 de Ex-Arenistas e Ex-Emedebistas No Atual Multipartidarismo Brasileiro.” Tese de
-Doutorado
+Doutorado (introdução, capítulo 1 e 2)
+
+Nicolau, Jairo. 2017. Representantes de Quem? Os (Des)Caminhos Do Seu Voto Da
+Urna à Câmara Dos Deputados. Rio de Janeiro: Zahar.
+
+ 
 
  
 
 PARTE 2- Representação
 ----------------------
 
-9 - 11 - Sistema eleitoral, incentivos e sucesso eleitoral
-----------------------------------------------------------
+ 
 
-Nicolau, Jairo. 2017. Representantes de Quem? Os (Des)Caminhos Do Seu Voto Da
-Urna à Câmara Dos Deputados. Rio de Janeiro: Zahar.
+7 - Sistema eleitoral, incentivos e sucesso eleitoral
+-----------------------------------------------------
 
-Carvalho, Nelson Rojas de. 2003. E No Início Eram as Bases: Geografia Política
-Do Voto e Do Comportamento Político No Brasil. Rio de Janeiro: Editora Revan.
+
+
 Pereira, Carlos e Lucio Rennó. 2007. “O Que é Que o Reeleito Tem? O Retorno: O
 Esboço de Uma Teoria Da Reeleição No Brasil.” Revista de Economia Política
 27(4):664–83.
@@ -113,8 +122,13 @@ Carlomagno, Márcio e Adriano Codato. 2018. “Profissão, Sexo e Dinheiro:
 Mensuração Da Acumulação de Desigualdades Na Competição Eleitoral Brasileira.”
 Colombia Internacional 95:79–107.
 
-12 e 13 - Representação de negros/mulheres
-------------------------------------------
+Nicolau, Jairo. 2017. Representantes de Quem? Os (Des)Caminhos Do Seu Voto Da
+Urna à Câmara Dos Deputados. Rio de Janeiro: Zahar.
+
+ 
+
+8-12 - Representação de negros/mulheres
+---------------------------------------
 
 Campos, Luiz Augusto e Carlos Machado. 2015. “A Cor Dos Eleitos: Determinantes
 Da Sub-Representação Política Dos Não Brancos No Brasil.” Revista Brasileira de
@@ -138,8 +152,8 @@ Araújo, Clara e Doriam Borges. 2013. “Trajetórias Políticas e Chances
 Eleitorais: Analisando o ‘Gênero’ Das Candidaturas Em 2010.” Revista de
 Sociologia e Politica 21(46):69–91.
 
-14 - Representação e religião
------------------------------
+13 e 14 - Representação e religião
+----------------------------------
 
 Dip, Andrea. 2018. Em Nome de Quem?: A Bancada Evangélica e Seu Projeto de
 Poder. Rio de Janeiro: Civilização Brasileira.
