@@ -106,24 +106,17 @@ PARTE 2- Representação
 7 - Sistema eleitoral, incentivos e sucesso eleitoral
 -----------------------------------------------------
 
-
-
 Pereira, Carlos e Lucio Rennó. 2007. “O Que é Que o Reeleito Tem? O Retorno: O
 Esboço de Uma Teoria Da Reeleição No Brasil.” Revista de Economia Política
 27(4):664–83.
 
 Castro, Mônica Mata Machado de e Felipe Nunes. 2014. “Candidatos Corruptos São
 Punidos?: Accountability Na Eleição Brasileira de 2006.” Opinião Pública
-20(1):26–48. Cervi, Emerson Urizzi, Luiz Domingos Costa, Adriano Codato, e
-Renato Perissinotto. 2015. “Dinheiro, Profissão e Partido: A Vitória Na Eleição
-Para Deputado Federal No Brasil Em 2010.” Sociedade e Estado 30(1):189–205.
+20(1):26–48.
 
 Carlomagno, Márcio e Adriano Codato. 2018. “Profissão, Sexo e Dinheiro:
 Mensuração Da Acumulação de Desigualdades Na Competição Eleitoral Brasileira.”
 Colombia Internacional 95:79–107.
-
-Nicolau, Jairo. 2017. Representantes de Quem? Os (Des)Caminhos Do Seu Voto Da
-Urna à Câmara Dos Deputados. Rio de Janeiro: Zahar.
 
  
 
@@ -151,6 +144,8 @@ Sociedade 3(5):27–44.
 Araújo, Clara e Doriam Borges. 2013. “Trajetórias Políticas e Chances
 Eleitorais: Analisando o ‘Gênero’ Das Candidaturas Em 2010.” Revista de
 Sociologia e Politica 21(46):69–91.
+
+ 
 
 13 e 14 - Representação e religião
 ----------------------------------
