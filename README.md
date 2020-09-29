@@ -120,8 +120,8 @@ Colombia Internacional 95:79–107.
 
  
 
-8-12 - Representação de negros/mulheres
----------------------------------------
+8- Representação de negros
+--------------------------
 
 Campos, Luiz Augusto e Carlos Machado. 2015. “A Cor Dos Eleitos: Determinantes
 Da Sub-Representação Política Dos Não Brancos No Brasil.” Revista Brasileira de
@@ -133,6 +133,13 @@ Revista de Sociologia e Politica 25(61):125–42.
 
 Bueno, Natália S. 2015. “Cor e Representação nas Eleições de 2014.” Revista
 Parlamento e Sociedade 3(5):45–63.
+
+ 
+
+9- Representação das  mulheres
+------------------------------
+
+ 
 
 Sacchet, Teresa. 2011. “Partidos Políticos e (Sub)Representação Feminina: Um
 Estudo Sobre Recrutamento Legislativo e Financiamento de Campanhas.” Pp. 159–86
@@ -147,8 +154,8 @@ Sociologia e Politica 21(46):69–91.
 
  
 
-13 e 14 - Representação e religião
-----------------------------------
+10 e 11 - Representação e religião 
+-----------------------------------
 
 Dip, Andrea. 2018. Em Nome de Quem?: A Bancada Evangélica e Seu Projeto de
 Poder. Rio de Janeiro: Civilização Brasileira.
@@ -156,7 +163,9 @@ Poder. Rio de Janeiro: Civilização Brasileira.
 Fábio Lacerda. 2017. “Pentecostalismo , Eleições e Representação Política No
 Brasil Contemporâneo.” Tese de Doutorado, USP.
 
-15 - Bancadas temáticas
+ 
+
+12 - Bancadas temáticas
 -----------------------
 
 Fernando, Pedro and D. E. Almeida Nery. 2019. “Economia Política Do Meio
