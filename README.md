@@ -136,8 +136,8 @@ Parlamento e Sociedade 3(5):45–63.
 
  
 
-9- Representação das  mulheres
-------------------------------
+9- Representação das mulheres
+-----------------------------
 
  
 
@@ -145,17 +145,14 @@ Sacchet, Teresa. 2011. “Partidos Políticos e (Sub)Representação Feminina: U
 Estudo Sobre Recrutamento Legislativo e Financiamento de Campanhas.” Pp. 159–86
 in Mulheres, política e poder, org. D. Paiva. Cânone Editoração.
 
-Abreu, Maria. 2015. “Mulheres e Representação Política.” Revista Parlamento e
-Sociedade 3(5):27–44.
-
 Araújo, Clara e Doriam Borges. 2013. “Trajetórias Políticas e Chances
 Eleitorais: Analisando o ‘Gênero’ Das Candidaturas Em 2010.” Revista de
 Sociologia e Politica 21(46):69–91.
 
  
 
-10 e 11 - Representação e religião 
------------------------------------
+10 e 11 - Representação e religião
+----------------------------------
 
 Dip, Andrea. 2018. Em Nome de Quem?: A Bancada Evangélica e Seu Projeto de
 Poder. Rio de Janeiro: Civilização Brasileira.
