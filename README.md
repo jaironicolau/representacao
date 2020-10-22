@@ -151,19 +151,28 @@ Sociologia e Politica 21(46):69–91.
 
  
 
-10 e 11 - Representação e religião
-----------------------------------
+10 - Representação e religião
+-----------------------------
 
-Dip, Andrea. 2018. Em Nome de Quem?: A Bancada Evangélica e Seu Projeto de
-Poder. Rio de Janeiro: Civilização Brasileira.
+ 
 
-Fábio Lacerda. 2017. “Pentecostalismo , Eleições e Representação Política No
-Brasil Contemporâneo.” Tese de Doutorado, USP.
+Guadalupe, J., Carranza, B. (2020). Novo ativismo político no Brasil: os
+evangélicos do século XXI.
+
+ 
+
+11 - Representação e religião
+-----------------------------
+
+  
+
 
  
 
 12 - Bancadas temáticas
 -----------------------
+
+ 
 
 Fernando, Pedro and D. E. Almeida Nery. 2019. “Economia Política Do Meio
 Ambiente : Identificação Da Bancada Ruralista e Outras Bancadas Temáticas No
