@@ -162,12 +162,12 @@ evangélicos do século XXI.
 -----------------------
 
 Duarte, L. (2017). Valores cívicos e morais em jogo na Câmara dos Deputados: a votação sobre o pedido de impeachment da Presidente da República Religião &amp; Sociedade  37(1), 145-166. 
-
+https://www.scielo.br/scielo.php?pid=S0100-85872017000100145&script=sci_abstract&tlng=pt
 
 Moreira, Davi Cordeiro. 2016. “Com a Palavra Os Nobres Deputados: Frequência e
 Ênfase Temática Dos Discursos Dos Parlamentares Brasileiros.” Dados - Revista de
 Ciências Sociais 63(1):1–37.
-
+https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582020000100202
 
 
 
