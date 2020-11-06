@@ -1,17 +1,14 @@
 Leituras e cronograma de aulas
 ==============================
 
- 
 
 1- Apresentação
 ---------------
 
- 
 
 PARTE 1 : Eleições na História
 ------------------------------
 
- 
 
 2 - Eleições e Representação no Império
 ---------------------------------------
@@ -161,13 +158,18 @@ evangélicos do século XXI.
 
  
 
-11 - Representação e religião
------------------------------
+11 - Quem eu represento?
+-----------------------
 
-  
+Duarte, L. (2017). Valores cívicos e morais em jogo na Câmara dos Deputados: a votação sobre o pedido de impeachment da Presidente da República Religião &amp; Sociedade  37(1), 145-166. 
 
 
- 
+Moreira, Davi Cordeiro. 2016. “Com a Palavra Os Nobres Deputados: Frequência e
+Ênfase Temática Dos Discursos Dos Parlamentares Brasileiros.” Dados - Revista de
+Ciências Sociais 63(1):1–37.
+
+
+
 
 12 - Bancadas temáticas
 -----------------------
@@ -177,7 +179,3 @@ evangélicos do século XXI.
 Fernando, Pedro and D. E. Almeida Nery. 2019. “Economia Política Do Meio
 Ambiente : Identificação Da Bancada Ruralista e Outras Bancadas Temáticas No
 Congresso Nacional Com Análise de Redes.”, Tese de Doutotado.
-
-Moreira, Davi Cordeiro. 2016. “Com a Palavra Os Nobres Deputados: Frequência e
-Ênfase Temática Dos Discursos Dos Parlamentares Brasileiros.” Dados - Revista de
-Ciências Sociais 63(1):1–37.
